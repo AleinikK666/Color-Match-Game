@@ -1,19 +1,19 @@
 # Color-Match-Game
-Проект представляет собой интерактивную игру на точное совпадение цветов, вдохновленную классической игрой BullsEye, но с уникальной механикой управления цветом через ползунки.
+The project is an interactive game of exact color matching, inspired by the classic BullsEye game, but with a unique color control mechanic via sliders.
 
-### 🕹️ Суть игры
+### 🕹️ The essence of the game
 
-Игрок должен с помощью RGB-ползунков максимально точно воспроизвести целевой цвет. Чем ближе результат к заданному цвету - тем больше очков начисляется!
+The player must reproduce the target color as accurately as possible using RGB sliders. The closer the result is to the specified color, the more points are awarded!
 
-### 🎮 Особенности
+### 🎮 Features
 
-Реализация цветового подбора через RGB-ползунки
-Система подсчета очков за точность совпадения
-Простой и интуитивный интерфейс
-Поддержка нескольких раундов
-Возможность начать игру заново
+Implementation of color matching via RGB sliders
+Scoring system for accuracy of matching
+Simple and intuitive interface
+Support for multiple rounds
+Ability to start the game over
 
-### Фото приложения
+### Application photos
 
 ![photo1](https://github.com/AleinikK666/Color-Match-Game/blob/main/photo/photo1.png)
 ![photo2](https://github.com/AleinikK666/Color-Match-Game/blob/main/photo/photo2.png)
