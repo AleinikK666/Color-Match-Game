@@ -12,3 +12,9 @@
 Простой и интуитивный интерфейс
 Поддержка нескольких раундов
 Возможность начать игру заново
+
+### Фото приложения
+
+![photo1](https://github.com/AleinikK666/Color-Match-Game/blob/main/photo/photo1.png)
+![photo2](https://github.com/AleinikK666/Color-Match-Game/blob/main/photo/photo2.png)
+![photo3](https://github.com/AleinikK666/Color-Match-Game/blob/main/photo/photo3.png)
